@@ -36,7 +36,7 @@ class PlayersAssociationTest {
         playerAssociation.enroll("Alex Teixeira", "Vasco da Gama", "Rio de Janeiro");
         playerAssociation.enroll("Raphael Veiga", "Palmeiras", "São Paulo");
 
-        
+
         List<String> list = asList(
                 "Player {Player name: Léo Jardim - Team: Vasco da Gama - Team City: Rio de Janeiro}",
                 "Player {Player name: Puma Rodriguez - Team: Vasco da Gama - Team City: Rio de Janeiro}",
